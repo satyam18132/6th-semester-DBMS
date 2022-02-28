@@ -1,0 +1,26 @@
+\documentclass[a4 paper, 12pt]{article}
+\usepackage{authblk}
+\begin{document}
+\title{UPDATE-1}
+\author{Guided by:-PROF. SAURABH GUPTA}
+\date{DATABASE MANAGEMENT SYSTEM}
+\affil{APPLLICATION OF DBMS IN SOCIAL MEDIA SITES.}
+\maketitle
+
+\begin{UPDATE}
+\section{INTRODUCTION}
+How Are Databases Used In Social Media? They can exchange music, pictures, data and engage in online conversations or discussions. Just like any other website that accepts and produces data, a social media website has a database where this information is stored.
+
+What databases does Instagram use? Instagram mainly uses two backend database systems: PostgreSQL and Cassandra. Both PostgreSQL and Cassandra have mature replication frameworks that work well as a globally consistent data store.
+
+What is social database? SOCIALDATABASE is an Official Twitter Partner that has developed a software platform that enriches Twitter data. Our custom code is able to surface job roles, personal interests, behaviors and more. The SOCIALDATABASE platform has envisioned a whole new kind of audience: the SUPERAUDIENCE.
+
+How are databases used today? Databases are used just about everywhere including banks, retail, websites and warehouses. Banks use databases to keep track of customer accounts, balances and deposits. Retail stores can use databases to store prices, customer information, sales information and quantity on hand
+\section{Which database does Netflix use?}
+Netflix uses AWS for nearly all its computing and storage needs, including databases, analytics, recommendation engines, video transcoding, and more—hundreds of functions that in total use more than 100,000 server instances on AWS.
+
+\end{UPDATE}
+
+
+
+\end{document}
