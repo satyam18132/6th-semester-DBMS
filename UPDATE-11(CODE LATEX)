@@ -1,0 +1,107 @@
+\documentclass[a4 paper, 12pt]{article}
+\usepackage{authblk}
+\begin{document}
+\title{UPDATE-1}
+\author{Guided by:-PROF. SAURABH GUPTA}
+\date{DATABASE MANAGEMENT SYSTEM}
+\affil{APPLLICATION OF DBMS IN SOCIAL MEDIA SITES.}
+\maketitle
+
+\begin{UPDATE}
+\section{INTRODUCTION}
+How Are Databases Used In Social Media? They can exchange music, pictures, data and engage in online conversations or discussions. Just like any other website that accepts and produces data, a social media website has a database where this information is stored.
+
+What databases does Instagram use? Instagram mainly uses two backend database systems: PostgreSQL and Cassandra. Both PostgreSQL and Cassandra have mature replication frameworks that work well as a globally consistent data store.
+
+What is social database? SOCIALDATABASE is an Official Twitter Partner that has developed a software platform that enriches Twitter data. Our custom code is able to surface job roles, personal interests, behaviors and more. The SOCIALDATABASE platform has envisioned a whole new kind of audience: the SUPERAUDIENCE.
+
+How are databases used today? Databases are used just about everywhere including banks, retail, websites and warehouses. Banks use databases to keep track of customer accounts, balances and deposits. Retail stores can use databases to store prices, customer information, sales information and quantity on hand
+\section{Which database does Netflix use?}
+Netflix uses AWS for nearly all its computing and storage needs, including databases, analytics, recommendation engines, video transcoding, and more—hundreds of functions that in total use more than 100,000 server instances on AWS.
+\section{What is the main use of database?}
+Databases can store very large numbers of records efficiently (they take up little space). It is easy to add new data and to edit or delete old data. Data can be searched easily, eg ‘find all Ford cars’. Data can be sorted easily, for example into ‘date first registered’ order.
+\section{What is importance of database?}
+Databases are a collection of organized information that can easily be accessed, managed and updated. Database systems are very important to your business because they communicate information related to your sales transactions, product inventory, customer profiles and marketing activities.
+\section{Is social media data private or public?}
+Privacy concerns with social networking services is a subset of data privacy, involving the right of mandating personal privacy concerning storing, re-purposing, provision to third parties, and displaying of information pertaining to oneself via the Internet.
+\section{Is social media a database?}
+Just like any other website that accepts and produces data, a social media website has a database where this information is stored. Read on to learn how the databases are applied in social media platforms.
+\section{What is social data usage?}
+Social data is information that social media users publicly share, which includes metadata such as the user’s location, language spoken, biographical data, and/or shared links.
+\section{How do databases work?}
+Database defined
+
+Data within the most common types of databases in operation today is typically modeled in rows and columns in a series of tables to make processing and data querying efficient. The data can then be easily accessed, managed, modified, updated, controlled, and organized.
+\section{Which database does Apple use?}
+CloudKit is Apple’s cloud database behind many of iCloud’s features including iOS backups, Photos, iWork sharing and iCloud Drive.
+\section{Does Google use SQL?}
+Cloud SQL is a fully-managed database service that helps you set up, maintain, manage, and administer your relational databases on Google Cloud Platform. You can use Cloud SQL with MySQL, PostgreSQL, or SQL Server. Not sure what database option is right for you? Learn more about our database services.
+\section{Does Google use Oracle?}
+Google’s parent company Alphabet is moving its internal financial operations from Oracle to SAP software. The news, first reported by CNBC, coincidentally comes on the same day the Supreme Court gave the final verdict in a decade-long legal battle between Oracle and Google (handing Google victory).
+\section{Is Netflix SAAS or PaaS?}
+Netflix built a custom Platform-as-a-Service (PaaS) from scratch.
+\section{Which database is used by Amazon?}
+Amazon RDS is available on several database instance types – optimized for memory, performance or I/O – and provides you with six familiar database engines to choose from, including Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle Database, and SQL Server.
+\section{Why does Netflix use a database?}
+Netflix uses three NoSQL tools: SimpleDB, HBase and Cassandra. “The reason why we use multiple NoSQL solutions is because each one is best suited for a specific set of use cases,” Izrailevsky writes.
+\section{What is DBMS in simple words?}
+A Database Management System (DBMS) is software designed to store, retrieve, define, and manage data in a database.
+\section{What is advantage and disadvantage of database?}
+Increased costs:
+
+Database systems require sophisticated hardware and software and highly skilled personnel. The cost of maintaining the hardware, software, and personnel required to operate and manage a database system can be substantial.
+\section{What are two advantages of DBMS?}
+A Database Management System (DBMS) is defined as the software system that allows users to define, create, maintain and control access to the database. DBMS makes it possible for end users to create, read, update and delete data in database. ꔷReduced data redundancy. ꔷReduced updating errors and increased consistency.
+\section{What is the disadvantages of database?}
+This is the first disadvantage of the database management system. This is because, for DBMS, it is mandatory to have a high-speed processor and also a large memory size. After all, nowadays there is a large amount of data in every field which needs to be store safely and with security.
+\section{Can social media be private?}
+Apart of using proper VPN to maintain your privacy while browsing, anyone must control the personal information they share online, making sure that they are not giving up too much of their privacy. Just go to your privacy settings and make your social media profiles as private as .
+\section{What social media is the most private?}
+Facebook was the most used social network in the survey (91 percent had an account), and 57 percent of those users keep their accounts at least partially private. 79 percent of them won’t even share their friends list.
+\section{What database does Facebook use?}
+Facebook was developed from the ground up using open source software. The site is written primarily in the PHP programming language and uses a MySQL database infrastructure.
+\section{How social media data is collected?}
+This data can be collected from the things you post, like, accept or search about through your devices. Big data companies and scientist, then collect this data and build personas about you that can determine your age and gender, what you like and much more.
+The top-performing social networking sites including Facebook and Instagram require a perfect database design. Their user data, authentication data, user preferences, links between profiles, individual posts and everything else needs accurate mapping and conservation.
+
+The most common database designs for social networking sites include quick reference functions, features for the addition and removal of social media sites and channels to your own database and the ability to filter sites based on multiple features. 
+
+Almost 3 billion people use social networking sites regularly. 1.2 billion People use Facebook monthly, and Twitter is catching up fast too. There is an incredible amount of data you can find on these online sites. Social media and social networking depend on each other, although the terms are not interchangeable. Social media includes blogs, vlogs, images, news articles, social network posts, and pictures.
+\section{Why is creating the perfect social media database such a challenge?}
+ As you can understand already, social media management also involves the management of big data from multiple sources. Big data is like the bigfoot of the business world. However, you need to rendezvous with the very basics of big data management if you want to utilize your social media channels for marketing success. Once your business profile is up and running on multiple channels, you will get terabytes of data each day. There is no other way to manage this monumental amount of information unless you can find a reliable database or design one for yourself.
+
+Designing a database for a business is not a joke. Even with the best expert programmer, it can take you months to create the perfect database with all the right indexes, fields and sorting system. You need an existing database, which is flexible, yet secure. You need to include backup features along with regular monitoring and recovery systems.
+
+Your social media database should have the following features –
+\section{Focus on data management}
+You will find a lot of ready-to-use databases in the market, but they are for specific applications and functions only. Social media requires a dynamic database. Your database expert will need to add new fields and new features to your database on a regular basis. Try to include as many functionalities as possible and do not compromise on features, simply because a database service is cheaper compared to the one you need
+\section{Keep it growing}
+A nascent business grows fast. You will need a flexible database that keeps room for rapid expansion. Social media experts often refer to this as requests per second of RPS. It decides how many users you can handle at the same time. Ideally, you should pick a session-heavy database for a high RPS limit. Do not skimp on the database investment or you might end up exhausting your session limit even before you hit your RPS maximum
+\section{How to harness your database’s power?}
+If you are using multiple social media channels, we know how difficult it can be for you right now to manage all the information flowing in from all directions. You need a robust database design that can use easy applications to rake in more data, filter them, organize them and file them into the relevant rows. Creating a data dump might seem like an easier option, but it calls for much confusion. A data dump usually fails to pull the correct information at the hour of need. Do not go for an application, which is database independent. Go with conventional database designs for social media, which embrace the latest technological advancements in big data and machine learning. The ideal condition is the merger of the database and the application(s). It means you can use the database to reuse your design elements and add as many features as you please without rebuilding validation for the DB.
+\section{Ask for DBA assistance in the beginning}
+The ideal way to do this is to seek expert DBA help. It is true – maintaining a social media database without a database administrator is almost impossible. If you are running on a shoestring budget, you can seek remote DBA assistance as well for your latest social media projects and DB management. The ideal databases are the relational database management systems. They can map relations between the objects in your database and also reduce redundancy. If you are a programmer, you should never wait until the last leg of the development process to involve a DBA. Always consult a database administrator during the design phase, before the actual development process begins.
+\section{How will your database interact with the applications?}
+
+We find many companies prefer to use database layers to hide the database using programming objects. It makes it almost impossible for programmers and DBAs to tell the actual database data apart from the in-memory data from the social networking sites and social media channels. Programmers can always help you by writing codes to include added data interaction strategies for accurate results. While designing, do not forget to include every foreign key in the DB by using a particular index.
+\section{Reuse ideas that work}
+Twitter uses a MySQL database to manage over 250 million Tweets per day perfectly. Of course, they have made their own changes and included a lot of advanced features, but their journey started from a basic MySQL database, which is also available to you right now! A good programmer can work with an experienced DBA to reverse engineer a reliable database. You need to consider your goals, different standard queries, access paths to your data and a security level before you can mention your requirements to your database designing team.
+
+Social media databases sound cumbersome and expensive. However, they need not be so. By making sure your database meets all the criteria mentioned above, you will end up with a database system that will last you for years to come and accommodate all algorithm changes involving social networking sites and social media channels
+
+\section{Abstract}
+The paper presents analysis of the storage systems used by social network sites. Namely, the social networks are one of the main driving forces behind the NoSQL database development. Facebook and Twitter were, together with other the Big Data players like Google and Amazon, first faced with the limitations of relational databases in solving their needs related to unprecedented transaction volumes, expectations of low-latency access to massive datasets, and nearly perfect service availability while operating in an unreliable environment. The first NoSQL databases arose as internal solutions created out of necessity, and not with the intention to abandon relational databases. But the main question is if, after more than ten years of development, NoSQL databases proved that they could be valuable storage solutions for social networks’ data. The paper shows that there is still a lot of room for improvement in the use of NoSQL in social networks and provides some suggestions on how NoSQL databases can bring additional value to social network sites
+\section{NoSQL DATABASES}
+NoSQL is an umbrella term related  to  numerous databases. NoSQL databases differ in architecture and purpose. For NoSQL supporters it is natural because they believe that a universal solution which could apply to all data types, volumes, and objectives does  not  exist.  Despite  differences,  NoSQL  databases  have  following  common features (McCreary et al., 2014):\\
+ Tables are not basic structures. NoSQL databases store and work with data in different formats (key-values, graphs, column family, documents, and tables). \\ There are no joins. NoSQL databases allow data processing through simple interfaces, without the need for joins.\\  They are schema-free. NoSQL databases allow data manipulation without the need for their previous modelling (e.g., entity-relational model).\\  There are many processors. NoSQL databases allow storage on multiple processors while keeping high levels of performance.\\  They use shared-nothing commodity computers. Most NoSQL databases are based on hardware architecture consisting of low-cost commodity processors that have separate random access memory (RAM) and disk.\\  They support linear scalability. The addition of a larger number of processors is manifested in a consistent increase in performance.\\  Innovation NoSQL databases offer several options to store and process data, including SQL. NoSQL supporters advocate an inclusive approach, aware that there is not only one solution to any problem. For them, NoSQL means “not only SQL.”
+Today, different  Big  Data challenges are, with more or less success, resolved with different NoSQL  database architectures. According  to that, NoSQL  databases can be classified  into  four basic  categories, each  resolving  a different  type  of big data problems:\\
+ Key-Value.\\  Column-Family.\\  Document.\\   Graph.
+
+The  key-value  type  of  NoSQL  databases  uses  a  key  to  locate  a  value  (e.g., traditional  data,  BLOBs  –  Binary  Large  OBjects,  files)  in  simple,  standalone  tables, known as hash tables. In this case, searches are performing against keys, not values, and they are  restricted to exact matches. Some of  the  best-known key-value stores are Amazon DynamoDB, Berkeley DB, Redis and Riak.   Column-family or column-oriented NoSQL databases have been named  for  their design with data stored in columns. In contrast, a  row-oriented database (relational database)  keeps  information  about  a  row  together.  Some  of  the  well-known column-family  stores  are  Google  BigTable,  Apache  Cassandra,  HBase, Hypertable and Amazon SimpleDB.   Document NoSQL stores have been designed  to  store  and manage  documents. The  documents  are encoded  in  standard  data  exchange  formats,  including  XML, JSON  (JavaScript  Object  Notation),  and  BSON  (Binary  JSON).  Some  of  the  best-known document stores are MongoDB, CouchDB, Terrastore, and RavenDB.    Graph NoSQL databases excel at dealing with highly interconnected data. They focus  on  relationships,  rather  than  data.  A  graph  store  consists  of  nodes  and relationships between nodes. Both  nodes  and  relationships have  properties  (or key-value pairs) to store data. Some of the better-known graph stores are Neo4J, Infinite Graph, and FlockDB. 
+
+
+\end{UPDATE}
+
+
+
+\end{document}
