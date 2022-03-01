@@ -1,0 +1,78 @@
+\documentclass[a4 paper, 12pt]{article}
+\usepackage{authblk}
+\begin{document}
+\title{UPDATE-1}
+\author{Guided by:-PROF. SAURABH GUPTA}
+\date{DATABASE MANAGEMENT SYSTEM}
+\affil{APPLLICATION OF DBMS IN SOCIAL MEDIA SITES.}
+\maketitle
+
+\begin{UPDATE}
+\section{INTRODUCTION}
+How Are Databases Used In Social Media? They can exchange music, pictures, data and engage in online conversations or discussions. Just like any other website that accepts and produces data, a social media website has a database where this information is stored.
+
+What databases does Instagram use? Instagram mainly uses two backend database systems: PostgreSQL and Cassandra. Both PostgreSQL and Cassandra have mature replication frameworks that work well as a globally consistent data store.
+
+What is social database? SOCIALDATABASE is an Official Twitter Partner that has developed a software platform that enriches Twitter data. Our custom code is able to surface job roles, personal interests, behaviors and more. The SOCIALDATABASE platform has envisioned a whole new kind of audience: the SUPERAUDIENCE.
+
+How are databases used today? Databases are used just about everywhere including banks, retail, websites and warehouses. Banks use databases to keep track of customer accounts, balances and deposits. Retail stores can use databases to store prices, customer information, sales information and quantity on hand
+\section{Which database does Netflix use?}
+Netflix uses AWS for nearly all its computing and storage needs, including databases, analytics, recommendation engines, video transcoding, and more—hundreds of functions that in total use more than 100,000 server instances on AWS.
+\section{What is the main use of database?}
+Databases can store very large numbers of records efficiently (they take up little space). It is easy to add new data and to edit or delete old data. Data can be searched easily, eg ‘find all Ford cars’. Data can be sorted easily, for example into ‘date first registered’ order.
+\section{What is importance of database?}
+Databases are a collection of organized information that can easily be accessed, managed and updated. Database systems are very important to your business because they communicate information related to your sales transactions, product inventory, customer profiles and marketing activities.
+\section{Is social media data private or public?}
+Privacy concerns with social networking services is a subset of data privacy, involving the right of mandating personal privacy concerning storing, re-purposing, provision to third parties, and displaying of information pertaining to oneself via the Internet.
+\section{Is social media a database?}
+Just like any other website that accepts and produces data, a social media website has a database where this information is stored. Read on to learn how the databases are applied in social media platforms.
+\section{What is social data usage?}
+Social data is information that social media users publicly share, which includes metadata such as the user’s location, language spoken, biographical data, and/or shared links.
+\section{How do databases work?}
+Database defined
+
+Data within the most common types of databases in operation today is typically modeled in rows and columns in a series of tables to make processing and data querying efficient. The data can then be easily accessed, managed, modified, updated, controlled, and organized.
+\section{Which database does Apple use?}
+CloudKit is Apple’s cloud database behind many of iCloud’s features including iOS backups, Photos, iWork sharing and iCloud Drive.
+\section{Does Google use SQL?}
+Cloud SQL is a fully-managed database service that helps you set up, maintain, manage, and administer your relational databases on Google Cloud Platform. You can use Cloud SQL with MySQL, PostgreSQL, or SQL Server. Not sure what database option is right for you? Learn more about our database services.
+\section{Does Google use Oracle?}
+Google’s parent company Alphabet is moving its internal financial operations from Oracle to SAP software. The news, first reported by CNBC, coincidentally comes on the same day the Supreme Court gave the final verdict in a decade-long legal battle between Oracle and Google (handing Google victory).
+\section{Is Netflix SAAS or PaaS?}
+Netflix built a custom Platform-as-a-Service (PaaS) from scratch.
+\section{Which database is used by Amazon?}
+Amazon RDS is available on several database instance types – optimized for memory, performance or I/O – and provides you with six familiar database engines to choose from, including Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle Database, and SQL Server.
+\section{Why does Netflix use a database?}
+Netflix uses three NoSQL tools: SimpleDB, HBase and Cassandra. “The reason why we use multiple NoSQL solutions is because each one is best suited for a specific set of use cases,” Izrailevsky writes.
+\section{What is DBMS in simple words?}
+A Database Management System (DBMS) is software designed to store, retrieve, define, and manage data in a database.
+\section{What is advantage and disadvantage of database?}
+Increased costs:
+
+Database systems require sophisticated hardware and software and highly skilled personnel. The cost of maintaining the hardware, software, and personnel required to operate and manage a database system can be substantial.
+\section{What are two advantages of DBMS?}
+A Database Management System (DBMS) is defined as the software system that allows users to define, create, maintain and control access to the database. DBMS makes it possible for end users to create, read, update and delete data in database. ꔷReduced data redundancy. ꔷReduced updating errors and increased consistency.
+\section{What is the disadvantages of database?}
+This is the first disadvantage of the database management system. This is because, for DBMS, it is mandatory to have a high-speed processor and also a large memory size. After all, nowadays there is a large amount of data in every field which needs to be store safely and with security.
+\section{Can social media be private?}
+Apart of using proper VPN to maintain your privacy while browsing, anyone must control the personal information they share online, making sure that they are not giving up too much of their privacy. Just go to your privacy settings and make your social media profiles as private as .
+\section{What social media is the most private?}
+Facebook was the most used social network in the survey (91 percent had an account), and 57 percent of those users keep their accounts at least partially private. 79 percent of them won’t even share their friends list.
+\section{What database does Facebook use?}
+Facebook was developed from the ground up using open source software. The site is written primarily in the PHP programming language and uses a MySQL database infrastructure.
+\section{How social media data is collected?}
+This data can be collected from the things you post, like, accept or search about through your devices. Big data companies and scientist, then collect this data and build personas about you that can determine your age and gender, what you like and much more.
+The top-performing social networking sites including Facebook and Instagram require a perfect database design. Their user data, authentication data, user preferences, links between profiles, individual posts and everything else needs accurate mapping and conservation.
+
+The most common database designs for social networking sites include quick reference functions, features for the addition and removal of social media sites and channels to your own database and the ability to filter sites based on multiple features. 
+
+Almost 3 billion people use social networking sites regularly. 1.2 billion People use Facebook monthly, and Twitter is catching up fast too. There is an incredible amount of data you can find on these online sites. Social media and social networking depend on each other, although the terms are not interchangeable. Social media includes blogs, vlogs, images, news articles, social network posts, and pictures.
+
+
+
+
+\end{UPDATE}
+
+
+
+\end{document}
